@@ -208,5 +208,25 @@
     "media": [
       "media/story-2026-11-26-2030-quiz-2-story/quiz-2-story.jpg"
     ]
+  },
+  {
+    "id": "reel-ex12-slip-cordon",
+    "type": "reel",
+    "when": "2026-11-19T19:30:00+05:30",
+    "media": [
+      "media/reel-ex12-slip-cordon/1-reel.mp4"
+    ],
+    "cover": "media/reel-ex12-slip-cordon/2-cover.jpg",
+    "caption": "Three slips. And it still goes through the gap. 🏏\n\nA thin edge flies fine to the keeper and first slip. A thicker one flies squarer, to third slip and gully. Every captain has to pick where the gaps are.\n\nFourth slip or a fielder in the gap: what's your call? Comment 👇\n\n#CricketTactics #SlipCordon #FastBowling #TestCricket #Cricket"
+  },
+  {
+    "id": "reel-ex14-round-the-wicket",
+    "type": "reel",
+    "when": "2026-11-21T19:30:00+05:30",
+    "media": [
+      "media/reel-ex14-round-the-wicket/1-reel.mp4"
+    ],
+    "cover": "media/reel-ex14-round-the-wicket/2-cover.jpg",
+    "caption": "Same bowler. Same spot. Different angle. Out. 🏏\n\nFrom over the wicket, a right-arm bowler's angle takes the ball away from a left-hander. Go round the wicket and the same delivery angles back in at the stumps, so LBW and bowled come into play.\n\nBest bowler against left-handers you've seen? Comment 👇\n\n#CricketTactics #RoundTheWicket #LBW #TestCricket #Cricket"
   }
 ]
