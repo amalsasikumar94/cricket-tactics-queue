@@ -14,5 +14,199 @@
     "media": [
       "media/story-2026-11-16-2130-quiz-2-story/quiz-2-story.jpg"
     ]
+  },
+  {
+    "id": "reel-ex13-free-hit",
+    "type": "reel",
+    "when": "2026-11-17T19:30:00+05:30",
+    "media": [
+      "media/reel-ex13-free-hit/1-reel.mp4"
+    ],
+    "cover": "media/reel-ex13-free-hit/2-cover.jpg",
+    "caption": "No-ball. Now the field is frozen. 🏏\n\nIn white-ball cricket, every no-ball brings a free hit. If the same batter is on strike, the fielding side can't change the field. Caught or bowled doesn't count. The only ways out: run out, obstructing the field, or hitting the ball twice.\n\nBest free hit you've ever seen? Comment 👇\n\n#CricketTactics #FreeHit #T20 #CricketRules #Cricket"
+  },
+  {
+    "id": "story-2026-11-17-1300-quiz-1-story",
+    "type": "story",
+    "when": "2026-11-17T13:00:00+05:30",
+    "media": [
+      "media/story-2026-11-17-1300-quiz-1-story/quiz-1-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-17-2030-quiz-2-story",
+    "type": "story",
+    "when": "2026-11-17T20:30:00+05:30",
+    "media": [
+      "media/story-2026-11-17-2030-quiz-2-story/quiz-2-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-18-1300-quiz-1-story",
+    "type": "story",
+    "when": "2026-11-18T13:00:00+05:30",
+    "media": [
+      "media/story-2026-11-18-1300-quiz-1-story/quiz-1-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-18-2030-quiz-2-story",
+    "type": "story",
+    "when": "2026-11-18T20:30:00+05:30",
+    "media": [
+      "media/story-2026-11-18-2030-quiz-2-story/quiz-2-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-19-1300-quiz-1-story",
+    "type": "story",
+    "when": "2026-11-19T13:00:00+05:30",
+    "media": [
+      "media/story-2026-11-19-1300-quiz-1-story/quiz-1-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-19-1700-poll-1-story",
+    "type": "story",
+    "when": "2026-11-19T17:00:00+05:30",
+    "media": [
+      "media/story-2026-11-19-1700-poll-1-story/poll-1-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-19-2030-quiz-2-story",
+    "type": "story",
+    "when": "2026-11-19T20:30:00+05:30",
+    "media": [
+      "media/story-2026-11-19-2030-quiz-2-story/quiz-2-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-20-1300-quiz-1-story",
+    "type": "story",
+    "when": "2026-11-20T13:00:00+05:30",
+    "media": [
+      "media/story-2026-11-20-1300-quiz-1-story/quiz-1-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-20-2030-quiz-2-story",
+    "type": "story",
+    "when": "2026-11-20T20:30:00+05:30",
+    "media": [
+      "media/story-2026-11-20-2030-quiz-2-story/quiz-2-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-21-1300-quiz-1-story",
+    "type": "story",
+    "when": "2026-11-21T13:00:00+05:30",
+    "media": [
+      "media/story-2026-11-21-1300-quiz-1-story/quiz-1-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-21-2030-quiz-2-story",
+    "type": "story",
+    "when": "2026-11-21T20:30:00+05:30",
+    "media": [
+      "media/story-2026-11-21-2030-quiz-2-story/quiz-2-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-22-1300-quiz-1-story",
+    "type": "story",
+    "when": "2026-11-22T13:00:00+05:30",
+    "media": [
+      "media/story-2026-11-22-1300-quiz-1-story/quiz-1-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-22-1700-poll-1-story",
+    "type": "story",
+    "when": "2026-11-22T17:00:00+05:30",
+    "media": [
+      "media/story-2026-11-22-1700-poll-1-story/poll-1-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-22-2030-quiz-2-story",
+    "type": "story",
+    "when": "2026-11-22T20:30:00+05:30",
+    "media": [
+      "media/story-2026-11-22-2030-quiz-2-story/quiz-2-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-23-1300-quiz-1-story",
+    "type": "story",
+    "when": "2026-11-23T13:00:00+05:30",
+    "media": [
+      "media/story-2026-11-23-1300-quiz-1-story/quiz-1-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-23-2030-quiz-2-story",
+    "type": "story",
+    "when": "2026-11-23T20:30:00+05:30",
+    "media": [
+      "media/story-2026-11-23-2030-quiz-2-story/quiz-2-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-24-1300-quiz-1-story",
+    "type": "story",
+    "when": "2026-11-24T13:00:00+05:30",
+    "media": [
+      "media/story-2026-11-24-1300-quiz-1-story/quiz-1-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-24-2030-quiz-2-story",
+    "type": "story",
+    "when": "2026-11-24T20:30:00+05:30",
+    "media": [
+      "media/story-2026-11-24-2030-quiz-2-story/quiz-2-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-25-1300-quiz-1-story",
+    "type": "story",
+    "when": "2026-11-25T13:00:00+05:30",
+    "media": [
+      "media/story-2026-11-25-1300-quiz-1-story/quiz-1-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-25-1700-poll-1-story",
+    "type": "story",
+    "when": "2026-11-25T17:00:00+05:30",
+    "media": [
+      "media/story-2026-11-25-1700-poll-1-story/poll-1-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-25-2030-quiz-2-story",
+    "type": "story",
+    "when": "2026-11-25T20:30:00+05:30",
+    "media": [
+      "media/story-2026-11-25-2030-quiz-2-story/quiz-2-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-26-1300-quiz-1-story",
+    "type": "story",
+    "when": "2026-11-26T13:00:00+05:30",
+    "media": [
+      "media/story-2026-11-26-1300-quiz-1-story/quiz-1-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-26-2030-quiz-2-story",
+    "type": "story",
+    "when": "2026-11-26T20:30:00+05:30",
+    "media": [
+      "media/story-2026-11-26-2030-quiz-2-story/quiz-2-story.jpg"
+    ]
   }
 ]
