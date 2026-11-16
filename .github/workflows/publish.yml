@@ -1,0 +1,31 @@
+# Every 30 minutes: post whatever in queue.json is due, then save
+# posted.json (and the clean-up of old media) back to the repo.
+name: Publish to Instagram
+on:
+  schedule:
+    - cron: "5,35 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: publish
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Post what is due
+        run: node publish.mjs
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          PAGES_URL: ${{ vars.PAGES_URL }}
+      - name: Save what was posted
+        if: always()
+        run: |
+          git config user.name "instagram-publisher"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || (git commit -m "Posted to Instagram" && git push)
