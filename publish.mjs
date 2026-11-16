@@ -1,15 +1,18 @@
 // Posts whatever in queue.json is due to Instagram, then records it in
 // posted.json. Run by .github/workflows/publish.yml every 30 minutes.
 //
-// Uses the Instagram API with Instagram Login (graph.instagram.com).
+// Uses the Instagram Graph API on graph.facebook.com with a business
+// system-user token (Unified login apps). Set API_HOST=graph.instagram.com
+// for a token from the older "Instagram login" setup.
 // Media files live in docs/ and are served by GitHub Pages, because
 // Instagram fetches every image and video from a public URL.
 //
 // Environment:
-//   IG_TOKEN     long-lived Instagram user access token (repo secret)
+//   IG_TOKEN     access token, e.g. a never-expiring system-user token
 //   IG_USER_ID   the Instagram account's user id (repo secret)
 //   PAGES_URL    e.g. https://yourname.github.io/cricket-tactics-queue
 //   API_VERSION  optional, default v27.0
+//   API_HOST     optional, default graph.facebook.com
 //
 // queue.json entries:
 //   { "id": "reel-ex11", "type": "reel" | "story" | "image" | "carousel",
@@ -22,7 +25,7 @@ import path from "node:path";
 
 const { IG_TOKEN, IG_USER_ID, PAGES_URL } = process.env;
 const VERSION = process.env.API_VERSION || "v27.0";
-const API = `https://graph.instagram.com/${VERSION}`;
+const API = `https://${process.env.API_HOST || "graph.facebook.com"}/${VERSION}`;
 const DRY = process.argv.includes("--dry-run");
 
 const readJson = (f) => JSON.parse(readFileSync(f, "utf8"));

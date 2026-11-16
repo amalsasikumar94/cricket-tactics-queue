@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "story-2026-11-16-1950-quiz-1-story",
+    "type": "story",
+    "when": "2026-11-16T19:50:00+05:30",
+    "media": [
+      "media/story-2026-11-16-1950-quiz-1-story/quiz-1-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-16-2130-quiz-2-story",
+    "type": "story",
+    "when": "2026-11-16T21:30:00+05:30",
+    "media": [
+      "media/story-2026-11-16-2130-quiz-2-story/quiz-2-story.jpg"
+    ]
+  }
+]
