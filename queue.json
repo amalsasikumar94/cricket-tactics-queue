@@ -18,28 +18,12 @@
   {
     "id": "reel-ex13-free-hit",
     "type": "reel",
-    "when": "2026-11-17T19:30:00+05:30",
+    "when": "2026-11-18T19:30:00+05:30",
     "media": [
       "media/reel-ex13-free-hit/1-reel.mp4"
     ],
     "cover": "media/reel-ex13-free-hit/2-cover.jpg",
     "caption": "No-ball. Now the field is frozen. 🏏\n\nIn white-ball cricket, every no-ball brings a free hit. If the same batter is on strike, the fielding side can't change the field. Caught or bowled doesn't count. The only ways out: run out, obstructing the field, or hitting the ball twice.\n\nBest free hit you've ever seen? Comment 👇\n\n#CricketTactics #FreeHit #T20 #CricketRules #Cricket"
-  },
-  {
-    "id": "story-2026-11-17-1300-quiz-1-story",
-    "type": "story",
-    "when": "2026-11-17T13:00:00+05:30",
-    "media": [
-      "media/story-2026-11-17-1300-quiz-1-story/quiz-1-story.jpg"
-    ]
-  },
-  {
-    "id": "story-2026-11-17-2030-quiz-2-story",
-    "type": "story",
-    "when": "2026-11-17T20:30:00+05:30",
-    "media": [
-      "media/story-2026-11-17-2030-quiz-2-story/quiz-2-story.jpg"
-    ]
   },
   {
     "id": "story-2026-11-18-1300-quiz-1-story",
@@ -212,7 +196,7 @@
   {
     "id": "reel-ex12-slip-cordon",
     "type": "reel",
-    "when": "2026-11-19T19:30:00+05:30",
+    "when": "2026-11-20T19:30:00+05:30",
     "media": [
       "media/reel-ex12-slip-cordon/1-reel.mp4"
     ],
@@ -222,11 +206,27 @@
   {
     "id": "reel-ex14-round-the-wicket",
     "type": "reel",
-    "when": "2026-11-21T19:30:00+05:30",
+    "when": "2026-11-22T19:30:00+05:30",
     "media": [
       "media/reel-ex14-round-the-wicket/1-reel.mp4"
     ],
     "cover": "media/reel-ex14-round-the-wicket/2-cover.jpg",
     "caption": "Same bowler. Same spot. Different angle. Out. 🏏\n\nFrom over the wicket, a right-arm bowler's angle takes the ball away from a left-hander. Go round the wicket and the same delivery angles back in at the stumps, so LBW and bowled come into play.\n\nBest bowler against left-handers you've seen? Comment 👇\n\n#CricketTactics #RoundTheWicket #LBW #TestCricket #Cricket"
+  },
+  {
+    "id": "story-2026-11-27-1300-quiz-1-story",
+    "type": "story",
+    "when": "2026-11-27T13:00:00+05:30",
+    "media": [
+      "media/story-2026-11-27-1300-quiz-1-story/quiz-1-story.jpg"
+    ]
+  },
+  {
+    "id": "story-2026-11-27-2030-quiz-2-story",
+    "type": "story",
+    "when": "2026-11-27T20:30:00+05:30",
+    "media": [
+      "media/story-2026-11-27-2030-quiz-2-story/quiz-2-story.jpg"
+    ]
   }
 ]
