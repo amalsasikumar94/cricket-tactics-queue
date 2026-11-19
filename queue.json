@@ -228,5 +228,15 @@
     "media": [
       "media/story-2026-11-27-2030-quiz-2-story/quiz-2-story.jpg"
     ]
+  },
+  {
+    "id": "reel-ex15-backing-up",
+    "type": "reel",
+    "when": "2026-11-24T19:30:00+05:30",
+    "media": [
+      "media/reel-ex15-backing-up/1-reel.mp4"
+    ],
+    "cover": "media/reel-ex15-backing-up/2-cover.jpg",
+    "caption": "The ball was never bowled. The batter was still out. 🏏\n\nIPL 2019, Jaipur: Ashwin stopped before letting go of the ball and broke the stumps, with Jos Buttler out of the crease at the non-striker's end. Under the Laws, the non-striker can be run out until the bowler's arm reaches the top of the delivery swing. No warning is required.\n\nFair play, or should bowlers warn first? Comment 👇\n\n#CricketTactics #Ashwin #JosButtler #IPL #Cricket"
   }
 ]
